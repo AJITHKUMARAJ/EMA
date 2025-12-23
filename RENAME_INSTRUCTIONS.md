@@ -228,7 +228,7 @@ git add .
 git commit -m "Initial commit: EMA Employee Management API with 100% test coverage"
 
 # Add remote (replace with your GitHub repo URL)
-git remote add origin https://github.com/yourusername/EMA.git
+git remote add origin https://github.com/AJITHKUMARAJ/EMA.git
 
 # Push to GitHub
 git branch -M main
